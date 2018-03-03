@@ -1,0 +1,14 @@
+body {
+  background: #424242;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+#header {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 4em;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #00db77;
+}
